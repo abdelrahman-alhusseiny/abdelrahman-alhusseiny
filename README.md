@@ -87,18 +87,6 @@ ASP.NET Core MVC, SQL Server, Entity Framework Core
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-alhusseiny&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-alhusseiny&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: **abdelrahmanalhusseiny451@gmail.com**
